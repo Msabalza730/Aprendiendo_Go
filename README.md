@@ -1,5 +1,5 @@
 # Aprendiendo_Go
-Aprendiendo Goland
+Aprendiendo Golang
 
 go run 1.holamundo.go
 
